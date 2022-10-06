@@ -72,3 +72,9 @@ li a:hover{
     background-color: black;
     cursor: pointer;
 }
+
+@media (max-width: 768px) {
+    .container{
+        margin-top: 85%;
+    }
+}

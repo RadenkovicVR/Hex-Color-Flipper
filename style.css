@@ -75,6 +75,6 @@ li a:hover{
 
 @media (max-width: 768px){
     .container{
-        margin-top: 160%;
+        margin-top: 100%;
     }
 }
